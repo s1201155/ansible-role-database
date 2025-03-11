@@ -1,0 +1,14 @@
+galaxy_info:
+  role_name: database
+  namespace: s1201155
+  author: s1201155
+  description: A role to configure and manage databases.
+  company: ""
+  license: MIT
+  min_ansible_version: 2.9
+  platforms:
+    - name: Ubuntu
+      versions:
+        - focal
+        - bionic
+dependencies: []
